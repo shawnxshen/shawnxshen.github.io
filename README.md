@@ -8,14 +8,14 @@ Nanjing University of Science and Technology
 
 Email: njust.shenxiaobo [AT] gmail.com or xbshen [AT] njust.edu.cn
 
-# About Me
+## About Me
 
 I received my BSc and PhD from School of Computer Science and Engineering, Nanjing University of Science and Technology in 2011 and 2017 respectively, and my supervisor is Prof. Quan-Sen Sun. I am now a full Professor in School of Computer Science and Engineering, Nanjing University of Science and Technology. During 2017-2018, I was a research fellow in Rolls-Royce@NTU Corp Lab, Nanyang Technological University, under the supervision of Prof. Yew-Soon Ong. In 2015, I worked with Prof. Heng Tao SHEN as a research assistant in Data and Knowledge Engineering group, University of Queensland. In 2016, I worked with Prof. Ivor W. Tsang as a research assistant in Centre for Artificial Intelligence, University of Technology Sydney.
 
-# Research Interests
+## Research Interests
 I have broad interests in machine learning, computer vision, and data mining. Particularly, I focus on developing algorithms of Multi-view Learning, Multi- label Learning, Hashing, Network Embedding Learning and applying them to Large-scale Retrieval, Classification, Clustering problems.
 
-# Conference Publications [[Google Scholar]](https://scholar.google.com/citations?user=0GbwWbQAAAAJ&hl=en) [[DBLP]](https://dblp.uni-trier.de/pers/hd/s/Shen_0001:Xiaobo)
+## Conference Publications [[Google Scholar]](https://scholar.google.com/citations?user=0GbwWbQAAAAJ&hl=en) [[DBLP]](https://dblp.uni-trier.de/pers/hd/s/Shen_0001:Xiaobo)
 
 1. **Xiaobo Shen**, Shirui Pan, Weiwei Liu, Quan-Sen Sun, Yew-Soon Ong, Discrete Network Embedding, in Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2018.
 
@@ -45,7 +45,7 @@ I have broad interests in machine learning, computer vision, and data mining. Pa
 
 1. **Xiaobo Shen**, Quan-Sen Sun, Yun-Hao Yuan, Orthogonal Canonical Correlation Analysis and Its Application in Feature Fusion, in Proceedings of IEEE International Conference on Information Fusion (ICIF), 2013 , 151-157.
 
-# Journal Publications
+## Journal Publications
 
 1. **Xiaobo Shen**, Weiwei Liu, Ivor W. Tsang, Quan-Sen Sun, Yew-Soon Ong, Multi-label Prediction via Cross-view Search, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (2018).
 
@@ -76,7 +76,7 @@ I have broad interests in machine learning, computer vision, and data mining. Pa
 
 1. **Xiaobo Shen**, Quan-Sen Sun, Orthogonal Multiset Canonical Correlation Analysis based on FractionalOrder and Its Application in Multiple Feature Extraction and Recognition, Neural Processing Letters (NPL), 42 (2014), 1-16.
 
-# Professional Activities
+## Professional Activities
 
 PC Member: MMM 16, MMM 17, AAAI 17, IJCAI 18
 
