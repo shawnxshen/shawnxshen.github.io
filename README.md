@@ -1,3 +1,5 @@
+Dr. Xiaobo Shen
+
 Professor
 
 School of Computer Science and Engineering
@@ -10,14 +12,10 @@ Email: njust.shenxiaobo [AT] gmail.com or xbshen [AT] njust.edu.cn
 
 I received my BSc and PhD from School of Computer Science and Engineering, Nanjing University of Science and Technology in 2011 and 2017 respectively, and my supervisor is Prof. Quan-Sen Sun. I am now a full Professor in School of Computer Science and Engineering, Nanjing University of Science and Technology. During 2017-2018, I was a research fellow in Rolls-Royce@NTU Corp Lab, Nanyang Technological University, under the supervision of Prof. Yew-Soon Ong. In 2015, I worked with Prof. Heng Tao SHEN as a research assistant in Data and Knowledge Engineering group, University of Queensland. In 2016, I worked with Prof. Ivor W. Tsang as a research assistant in Centre for Artificial Intelligence, University of Technology Sydney.
 
-You can use the [editor on GitHub](https://github.com/shawnxshen/shawnxshen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Research Interests
 I have broad interests in machine learning, computer vision, and data mining. Particularly, I focus on developing algorithms of Multi-view Learning, Multi- label Learning, Hashing, Network Embedding Learning and applying them to Large-scale Retrieval, Classification, Clustering problems.
 
-# Conference Publications [Google Scholar] [DBLP]
+# Conference Publications [[Google Scholar]](https://scholar.google.com/citations?user=0GbwWbQAAAAJ&hl=en) [[DBLP]](https://dblp.uni-trier.de/pers/hd/s/Shen_0001:Xiaobo)
 
 1. **Xiaobo Shen**, Shirui Pan, Weiwei Liu, Quan-Sen Sun, Yew-Soon Ong, Discrete Network Embedding, in Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2018.
 
