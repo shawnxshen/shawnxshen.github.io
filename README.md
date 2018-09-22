@@ -1,4 +1,4 @@
-{: .gitlab-black}
+
 
 Dr. Xiaobo Shen
 
