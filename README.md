@@ -1,3 +1,5 @@
+{: .gitlab-black}
+
 Dr. Xiaobo Shen
 
 Professor
